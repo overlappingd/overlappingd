@@ -1,5 +1,5 @@
 hey, welcome. i don't know how you landed here but here's what i do:
-- helper in BSMG (specifically a PCVR helper)
+- support in BSMG (specifically a PCVR support)
 - cold water addict
 - stuff?
 
